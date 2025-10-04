@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "333719607642",
+    "project_id": "jpmfood-5fdb5",
+    "storage_bucket": "jpmfood-5fdb5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333719607642:android:1200c79a31f7f4ecf6bb63",
+        "android_client_info": {
+          "package_name": "com.example.jpmfood"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsghnAg7KMrk_RBONHbqKN85mU2go0xUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
