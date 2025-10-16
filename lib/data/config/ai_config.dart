@@ -1,7 +1,7 @@
 // File: lib/config/ai_config.dart
 class AIConfig {
   // Your Gemini API key
-  static const String apiKey = 'AIzaSyAUlZ27hZ0AIy3fiv9iQApS17HZxl8ISc8';
+  static const String apiKey = 'YOUR API KEY';
 
   // Google Gemini (ACTIVE - Currently using this)
   static const String geminiEndpoint =
